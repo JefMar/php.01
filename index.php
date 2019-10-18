@@ -9,7 +9,7 @@
 <body> 
     <div class="container">
         <h2>Cadastro de Cliente</h2>
-        <form action="" style="width:500px;">
+        <form action="recebe.php" style="width:500px;">
             <label for="">Nome:</label>
             <input type="text" class="form-control">
             <label for="">Idade:</label>
